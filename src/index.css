@@ -1,0 +1,5 @@
+@import 'animate.css'; /* Optional if you're using animate.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
